@@ -61,7 +61,7 @@ orangeHRMLoginPage login1;
 	
 	@Test
 	public void TestRepogit() {
-		System.out.println("I want to override the eclipse commit as A user");
+		System.out.println("I want to override the eclipse commit as B user");
 	}
 
 	
